@@ -57,3 +57,10 @@ iOS application focused on learning SwiftUI architecture.
 ---
 
 ⭐ Always learning and building.
+
+## 🎯 2026 Goals
+
+- Build and publish my first iOS app
+- Master SwiftUI architecture
+- Learn Firebase backend integration
+- Contribute to open-source projects
