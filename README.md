@@ -11,7 +11,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 - 📱 iOS Developer
 - 🌎 Based in Fortaleza, Brazil
 - 📚 Currently learning:
-  - SwiftUI Architecture (MVVM, MV. and MVP)
+  - SwiftUI Architecture (MVVM, MV and MVP)
   - Backend integration
   - Firebase / Cloud services
 - 🧠 Passionate about building real apps and solving problems with technology
