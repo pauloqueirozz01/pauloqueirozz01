@@ -25,7 +25,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 ![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/UIKit-blue?style=for-the-badge&logo=swift)
-![ReactNative](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=typescript)
+![ReactNative](https://img.shields.io/badge/ReactNative-purple?style=for-the-badge&logo=typescript)
 
 
 ### Tools
