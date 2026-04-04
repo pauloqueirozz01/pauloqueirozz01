@@ -32,7 +32,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-white?style=for-the-badge&logo=VisualStudioCode)
 ---
 
 ## 📱 Featured Projects
