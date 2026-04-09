@@ -8,7 +8,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 
 ## 🚀 About Me
 
-- 📱 iOS Developer
+- 📱 Mobile Developer | iOS Developer
 - 🌎 Based in Fortaleza, Brazil
 - 📚 Currently learning:
   - SwiftUI Architecture (MVVM, MV and MVP)
