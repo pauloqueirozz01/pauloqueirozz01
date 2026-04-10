@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Paulo Queiroz
 
-💻 iOS Developer focused on building modern mobile applications with Swift | UIKit and SwiftUI, TypeScript | React Native.
+💻 Mobile Developer focused on building modern mobile applications with Swift | UIKit and SwiftUI, TypeScript | React Native.
 
 I enjoy learning software architecture, clean code, and creating useful digital products.
 
@@ -8,7 +8,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 
 ## 🚀 About Me
 
-- 📱 Mobile Developer | iOS Developer
+- 📱 Mobile Developer | React Native | SwiftUI | UiKit 
 - 🌎 Based in Fortaleza, Brazil
 - 📚 Currently learning:
   - SwiftUI Architecture (MVVM, MV and MVP)
