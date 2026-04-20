@@ -35,20 +35,6 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=VisualStudioCode)
 ---
 
-## 📱 Featured Projects
-
-### 📌 Reminder App
-A reminder application built using Swift.
-
-### 📌 HeyMister App
-iOS application focused on learning SwiftUI architecture.
-
-### 📌 CheckApp
-IOS Application build with SwiftUI, Firebase. 
-
-### 📌 ( Soon ... ) 
----
-
 ## 📊 GitHub Stats
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloqueirozz01&show_icons=true&theme=tokyonight)
@@ -69,6 +55,6 @@ IOS Application build with SwiftUI, Firebase.
 ## 🎯 2026 Goals
 
 - Build and publish my first iOS app
-- Master SwiftUI architecture
+- Master SwiftUI for building native iOS apps and increment learning in React Native
 - Learn Firebase backend integration
 - Contribute to open-source projects
