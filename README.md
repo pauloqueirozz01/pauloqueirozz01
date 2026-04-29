@@ -8,7 +8,7 @@ I enjoy learning software architecture, clean code, and creating useful digital 
 
 ## 🚀 About Me
 
-- 📱 Mobile Developer | Flutter Dart | SwiftUI | UiKit 
+- 📱 Mobile Developer | Flutter | Dart | SwiftUI | UiKit 
 - 🌎 Based in Fortaleza, Brazil
 - 📚 Currently learning:
   - SwiftUI Architecture (MVVM, MV and MVP)
