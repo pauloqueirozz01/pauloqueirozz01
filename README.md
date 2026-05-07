@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Paulo Queiroz
 
-💻 Mobile Developer focused on building modern mobile applications with Swift | UIKit and SwiftUI | Dart | Flutter
+💻 Mobile Developer focused on building modern mobile applications with Swift | UIKit and SwiftUI | Dart | Flutter | React Native | Typescript
 
 I enjoy learning software architecture, clean code, and creating useful digital products.
 
