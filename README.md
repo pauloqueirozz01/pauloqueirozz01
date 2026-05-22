@@ -58,6 +58,7 @@ I enjoy transforming ideas into real products and constantly learning new techno
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![Dart](https://img.shields.io/badge/github-repo-blue?gray=Dart)
 
 ### Frontend & Backend
 
