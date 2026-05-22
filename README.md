@@ -23,7 +23,7 @@ I enjoy transforming ideas into real products and constantly learning new techno
     <img src="https://img.shields.io/badge/GitHub-pauloqueirozz01-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://linkedin.com/in/SEU-LINK">
+  <a href="https://linkedin.com/in/paulo-queirozdev/">
     <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
