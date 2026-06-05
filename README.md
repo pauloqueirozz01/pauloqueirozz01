@@ -1,13 +1,13 @@
 # Hi 👋, I'm Paulo Queiroz
 
-🚀 **Mobile Developer | SwiftUI, React Native & Flutter**  
+🚀 **Mobile Developer | Flutter & Dart | Swift**  
 🇧🇷 Fortaleza, Brazil
 
 I’m a Software Engineering student focused on building modern mobile applications with clean architecture, scalable code, and great user experiences.
 
 Currently improving my skills in:
 - iOS Development with SwiftUI
-- Cross-platform mobile apps with React Native & Flutter
+- Cross-platform mobile apps with Flutter
 - REST API integrations
 - Mobile architecture patterns like MVVM, MVC, and MVP
 - Performance and state management
@@ -38,7 +38,7 @@ I enjoy transforming ideas into real products and constantly learning new techno
 
 - 📱 Mobile application development
 - 🍎 Native iOS apps with SwiftUI
-- ⚛️ Cross-platform apps with React Native & Flutter
+- ⚛️ Cross-platform apps with Flutter & Dart 
 - 🔗 REST API integrations
 - 🏗️ MVVM, MVC & clean architecture
 - 🔐 Authentication systems
@@ -53,12 +53,10 @@ I enjoy transforming ideas into real products and constantly learning new techno
 
 ### Mobile Development
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-
 
 ### Frontend & Backend
 
@@ -75,7 +73,7 @@ I enjoy transforming ideas into real products and constantly learning new techno
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
+![XCode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
 
 ---
 
