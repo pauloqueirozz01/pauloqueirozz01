@@ -8,7 +8,7 @@ Sou estudante de Sistemas de Informação no Centro Universitário 7 de Setembro
 
 Tenho curiosidade em entender como as tecnologias funcionam antes de simplesmente utilizá-las. Gosto de aprender por meio de projetos práticos, transformando cada novo desafio em uma oportunidade para evoluir como desenvolvedor.
 
-Acredito que aprender bem os fundamentos é o caminho para desenvolver software de qualidade e evoluir de forma consistente na carreira.
+Acredito que aprender bem os fundamentos é o caminho para entregar soluções com qualidade e evoluir de forma consistente na carreira.
 
 ---
 
