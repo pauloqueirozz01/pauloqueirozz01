@@ -81,9 +81,9 @@ Meu objetivo é evoluir continuamente através de projetos práticos, consolidan
 
 Este GitHub representa minha evolução como desenvolvedor.
 
-Cada repositório documenta uma etapa da minha jornada, mostrando como aplico na prática os conhecimentos que venho adquirindo em desenvolvimento mobile, backend e engenharia de software.
+Cada repositório representa uma etapa da minha jornada, tento sempre transpareceer o que estou estudando, colocando em prática e testando conhecimentos que venho adquirindo em desenvolvimento mobile, backend e engenharia de software.
 
-Aqui você encontrará projetos de estudo, aplicações completas, experimentos, desafios e soluções desenvolvidas com foco em aprendizado contínuo.
+Aqui você encontrará projetos de estudo, aplicações completas, experimentos, desafios e soluções desenvolvidas com foco em continuar estudando e evoluindo sempre.
 
 ---
 
