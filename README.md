@@ -4,7 +4,7 @@
 
 📍 Fortaleza - CE
 
-Sou estudante de Sistemas de Informação no Centro Universitário 7 de Setembro (UNI7) e estou direcionando minha carreira para o desenvolvimento mobile com Flutter, enquanto construo uma base Full Stack utilizando C#/.NET para desenvolver APIs e aprofundar meus conhecimentos em Arquitetura de Software, Engenharia de Software, Banco de Dados e tecnologias de Cloud Computing, como Azure, Docker e Kubernetes.
+Sou estudante de Sistemas de Informação no Centro Universitário 7 de Setembro (UNI7) e estou direcionando minha carreira para o desenvolvimento mobile com Flutter, enquanto construo uma base Full Stack utilizando C#/.NET para desenvolver APIs e aprofundar meus conhecimentos em Engenharia de Software, Banco de Dados e tecnologias de Cloud Computing, como Azure, Docker e Kubernetes.
 
 Tenho curiosidade em entender como as tecnologias funcionam antes de simplesmente utilizá-las. Gosto de aprender por meio de projetos práticos, transformando cada novo desafio em uma oportunidade para evoluir como desenvolvedor.
 
