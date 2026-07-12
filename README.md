@@ -1,10 +1,12 @@
 # Olá! 👋 Eu sou Paulo Queiroz
 
-**Desenvolvedor Mobile | Flutter & Dart**
+**Estudante de Sistemas de Informação | Flutter & Dart | C#/.NET**
 
-📍 Fortaleza - CE, Brasil
+📍 Fortaleza - CE
 
-Sou estudante de Sistemas da Informação, apaixonado por construir aplicações que unem boa experiência de uso, código limpo e arquitetura bem estruturada.
+Sou estudante de Sistemas de Informação no Centro Universitário 7 de Setembro (UNI7) e estou direcionando minha carreira para o desenvolvimento mobile com Flutter, enquanto construo uma base sólida em backend com C#/.NET.
+
+Tenho curiosidade em entender como as tecnologias funcionam antes de simplesmente utilizá-las. Gosto de aprender por meio de projetos práticos, transformando cada novo desafio em uma oportunidade para evoluir como desenvolvedor.
 
 Atualmente estou focado no desenvolvimento mobile com **Flutter**, enquanto construo uma base sólida em **Engenharia de Software**, **Backend com C#/.NET**, **APIs**, **Banco de Dados** e **Cloud Computing**.
 
