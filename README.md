@@ -1,22 +1,109 @@
-# Hi 👋, I'm Paulo Queiroz
+# Olá! 👋 Eu sou Paulo Queiroz
 
-🚀 **Mobile Developer | Flutter & Dart | Swift**  
-🇧🇷 Fortaleza, Brazil
+**Desenvolvedor Mobile | Flutter & Dart**
 
-I’m a Software Engineering student focused on building modern mobile applications with clean architecture, scalable code, and great user experiences.
+📍 Fortaleza - CE, Brasil
 
-Currently improving my skills in:
-- iOS Development with SwiftUI
-- Cross-platform mobile apps with Flutter
-- REST API integrations
-- Mobile architecture patterns like MVVM, MVC, and MVP
-- Performance and state management
+Sou estudante de Sistemas da Informação, apaixonado por construir aplicações que unem boa experiência de uso, código limpo e arquitetura bem estruturada.
 
-I enjoy transforming ideas into real products and constantly learning new technologies and development practices.
+Atualmente estou focado no desenvolvimento mobile com **Flutter**, enquanto construo uma base sólida em **Engenharia de Software**, **Backend com C#/.NET**, **APIs**, **Banco de Dados** e **Cloud Computing**.
+
+Acredito que aprender bem os fundamentos é o caminho para desenvolver software de qualidade e evoluir de forma consistente na carreira.
 
 ---
 
-## 🌐 Connect with me
+# 📌 Atualmente
+
+### 🎯 Foco Principal
+
+- Flutter
+- Dart
+
+### 📚 Estudando
+
+- C# e .NET
+- Desenvolvimento de APIs REST
+- Banco de Dados
+- Cloud Computing
+- Arquitetura de Software
+- Clean Architecture
+
+### 🚀 Projeto Principal
+
+**Mathiz**
+
+Aplicativo desenvolvido em Flutter voltado ao ensino de Matemática Aplicada e Lógica Matemática, utilizado como laboratório para aplicar conceitos de arquitetura, organização de código e boas práticas de desenvolvimento.
+
+---
+
+# 💡 Filosofia de Desenvolvimento
+
+Gosto de construir software entendendo primeiro o problema antes da implementação.
+
+Busco escrever código simples, organizado e fácil de manter, sempre priorizando:
+
+- Clareza
+- Boas práticas
+- Evolução contínua
+- Arquitetura
+- Escalabilidade
+
+Acredito que um bom desenvolvedor não conhece apenas ferramentas, mas entende os princípios por trás delas.
+
+---
+
+# 🛠️ Tecnologias
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### Cloud & Ferramentas
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📖 Roadmap de Estudos
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Flutter & Dart
+- C# e .NET
+- Desenvolvimento de APIs REST
+- Banco de Dados
+- Arquitetura de Software
+- Cloud Computing
+
+Meu objetivo é evoluir continuamente através de projetos práticos, consolidando cada novo conhecimento antes de avançar para o próximo.
+
+---
+
+# 📂 O que você vai encontrar aqui
+
+Este GitHub representa minha evolução como desenvolvedor.
+
+Cada repositório documenta uma etapa da minha jornada, mostrando como aplico na prática os conhecimentos que venho adquirindo em desenvolvimento mobile, backend e engenharia de software.
+
+Aqui você encontrará projetos de estudo, aplicações completas, experimentos, desafios e soluções desenvolvidas com foco em aprendizado contínuo.
+
+---
+
+# 🌐 Contato
 
 <p align="left">
   <a href="https://github.com/pauloqueirozz01">
@@ -34,79 +121,24 @@ I enjoy transforming ideas into real products and constantly learning new techno
 
 ---
 
-## 🧠 About Me
-
-- 📱 Mobile application development
-- 🍎 Native iOS apps with SwiftUI
-- ⚛️ Cross-platform apps with Flutter & Dart 
-- 🔗 REST API integrations
-- 🏗️ MVVM, MVC & clean architecture
-- 🔐 Authentication systems
-- 💾 Local persistence with SQLite & Supabase
-- 🤖 AI integrations with OpenAI APIs
-- 🚀 Performance-focused interfaces
-- 📚 Continuous learning and software engineering best practices
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-
-### Frontend & Backend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Database & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![XCode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
-
----
-
-## 📚 Currently Learning
-
-- Advanced SwiftUI architecture
-- CI/CD for mobile apps
-- Software architecture patterns
-- Automated testing
-- Docker & DevOps fundamentals
-- Firebase & cloud services
-
----
-
-## 📊 GitHub Stats
+# 📊 Estatísticas
 
 <p align="left">
-  <img 
+  <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauloqueirozz01&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=pauloqueirozz01&show_icons=true&theme=tokyonight&count_private=true"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauloqueirozz01&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloqueirozz01&layout=compact&theme=tokyonight"
   />
 </p>
----
-
-## 🚀 Goals
-
-My goal is to become a strong mobile software engineer capable of building scalable, well-architected, and user-centered applications that solve real problems.
 
 ---
 
-⭐ Always open to learning, collaboration, and building cool projects
+# 🎯 Objetivo
+
+Construir uma carreira como Desenvolvedor Mobile especializado em Flutter, expandindo meus conhecimentos em Backend com C#/.NET para desenvolver aplicações completas, escaláveis e bem arquitetadas.
+
+Estou sempre buscando aprender, compartilhar conhecimento e evoluir um projeto de cada vez.
