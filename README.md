@@ -36,21 +36,6 @@ Aplicativo desenvolvido em Flutter voltado ao ensino de Matemática Aplicada e L
 
 ---
 
-# 💡 Filosofia de Desenvolvimento
-
-Gosto de construir software entendendo primeiro o problema antes da implementação.
-
-Busco escrever código simples, organizado e fácil de manter, sempre priorizando:
-
-- Clareza
-- Boas práticas
-- Evolução contínua
-- Arquitetura
-- Escalabilidade
-
-Acredito que um bom desenvolvedor não conhece apenas ferramentas, mas entende os princípios por trás delas.
-
----
 
 # 🛠️ Tecnologias
 
@@ -62,7 +47,6 @@ Acredito que um bom desenvolvedor não conhece apenas ferramentas, mas entende o
 ### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Banco de Dados
 
