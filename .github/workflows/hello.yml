@@ -8,5 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Listar arquivos
+        run: ls -la
+
       - name: Mostrar mensagem
         run: echo "Olá, GitHub Actions!"
