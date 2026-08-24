@@ -39,16 +39,7 @@ O projeto também funciona como laboratório para aplicar conceitos de **arquite
 
 ## 📊 GitHub
 
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pauloqueirozz01&show_icons=true&theme=tokyonight"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloqueirozz01&layout=compact&theme=tokyonight"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=pauloqueirozz01..." />
 
 ---
 
