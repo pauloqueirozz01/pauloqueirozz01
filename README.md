@@ -10,7 +10,6 @@ Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software, A
 
 Meu objetivo é construir uma base sólida como **Engenheiro de Software**, entendendo não apenas como utilizar uma tecnologia, mas as decisões e conceitos por trás dela.
 
----
 
 ## 🛠️ Tecnologias
 
