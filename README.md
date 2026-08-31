@@ -24,6 +24,8 @@ Meu objetivo é construir uma base sólida como **Engenheiro de Software**, ente
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)
 </p>
 
 
@@ -41,7 +43,7 @@ O projeto também funciona como laboratório para aplicar conceitos de **arquite
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pauloqueirozz01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=pauloqueirozz01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)
+
 ---
 
 ## 🌐 Contato
