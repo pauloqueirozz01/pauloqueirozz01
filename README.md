@@ -25,7 +25,10 @@ Meu objetivo é construir uma base sólida como **Engenheiro de Software**, ente
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)
+ <div>
+   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)
+ </div>
+  
 </div>
 
 
