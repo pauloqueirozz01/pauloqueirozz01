@@ -13,7 +13,7 @@ Meu objetivo é construir uma base sólida como **Engenheiro de Software**, ente
 
 ## 🛠️ Tecnologias
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -26,7 +26,7 @@ Meu objetivo é construir uma base sólida como **Engenheiro de Software**, ente
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=pauloqueirozz01&langs_count=4&hide_values=true&theme=aura)
-</p>
+</div>
 
 
 ## 🚀 Projeto em destaque
