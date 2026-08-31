@@ -39,17 +39,7 @@ O projeto também funciona como laboratório para aplicar conceitos de **arquite
 
 ## 📊 GitHub
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pauloqueirozz01&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloqueirozz01&layout=compact&theme=tokyonight"
-  />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pauloqueirozz01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=pauloqueirozz01&rank_icon=github&custom_title=my%20stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=nord)
 
 ---
 
