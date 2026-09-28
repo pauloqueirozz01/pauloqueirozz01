@@ -4,11 +4,13 @@
 
 📍 Fortaleza, CE — Brasil
 
-Sou estudante de **Sistemas de Informação na UNI7**, com foco em desenvolvimento de software utilizando **Flutter** no mobile e **C#/.NET** no backend.
+Sou estudante de Sistemas de Informação na UNI7 e Desenvolvedor de Software com foco em aplicações Full Stack, combinando Flutter/Dart no desenvolvimento mobile com Python/Django no backend.
 
-Atualmente, venho aprofundando meus conhecimentos em **Engenharia de Software, APIs REST, bancos de dados e arquitetura de aplicações**, utilizando projetos práticos para consolidar os fundamentos e explorar novas tecnologias.
+Também atuo profissionalmente com desenvolvimento web utilizando PHP, Laravel, MySQL e Docker, participando da construção e evolução de soluções, integrações com APIs e definição técnica de funcionalidades.
 
-Meu objetivo é construir uma base sólida como **Engenheiro de Software**, entendendo não apenas como utilizar uma tecnologia, mas as decisões e conceitos por trás dela.
+Atualmente, venho aprofundando meus conhecimentos em Engenharia de Software, APIs REST, bancos de dados, arquitetura de aplicações e desenvolvimento backend com Python, utilizando projetos práticos para consolidar fundamentos e explorar novas tecnologias.
+
+Meu objetivo é evoluir como Engenheiro de Software, construindo aplicações completas e entendendo não apenas como utilizar cada tecnologia, mas também as decisões de arquitetura e os conceitos que sustentam soluções escaláveis e bem estruturadas.
 
 
 ## 🛠️ Tecnologias
