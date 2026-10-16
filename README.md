@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Paulo Queiroz
 
-**Desenvolvedor de Software | PHP | Python | Flutter 
+## Desenvolvedor de Software | PHP | Python | Flutter 
 📍 Fortaleza, CE — Brasil
 
 Sou estudante de Sistemas de Informação na UNI7 e Desenvolvedor de Software com foco em aplicações Full Stack, combinando Flutter/Dart no desenvolvimento mobile com Python/Django no backend.
